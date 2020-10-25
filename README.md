@@ -1,8 +1,11 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnwjddl&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnwjddl&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dnwjddl/dnwjddl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+
 
 Here are some ideas to get you started:
 
