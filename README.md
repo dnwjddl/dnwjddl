@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Deep Learning
+🌱 I’m currently interested in "GAN" and "Reinforcement Learning"
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnwjddl&theme=radical&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
