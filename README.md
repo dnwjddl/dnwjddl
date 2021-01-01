@@ -1,6 +1,6 @@
 ### Hi there 👋 
-🌱 I’m currently learning Deep Learning
-🌱 I’m currently learning GAN
+🌱 I’m currently learning Deep Learning <br>
+🌱 I’m currently learning GAN <br>
 🌱 I’m currently learning object Detection 
 
 
