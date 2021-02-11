@@ -1,7 +1,5 @@
 ### Hi there 👋 
-🌱 I’m currently learning Deep Learning <br>
-✨ I’m currently learning GAN <br>
-🌻 I’m currently learning object Detection 
+✨ I’m currently learning Deep Learning, GAN, ObjectDetection <br>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnwjddl&theme=radical&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
