@@ -2,7 +2,7 @@
 ✨ I’m currently learning ```Deep Learning```, ```GAN```, ```ObjectDetection``` <br>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnwjddl&theme=radical&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnwjddl&theme=highcontrast&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dnwjddl/dnwjddl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
