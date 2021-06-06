@@ -6,7 +6,7 @@
  [![HITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnwjddl&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woojung980305@gmail.com)](woojung980305@gmail.com)
 	
 	
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnwjddl&theme=radical&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnwjddl&theme=dark&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
 
  </div>
