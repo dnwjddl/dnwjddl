@@ -1,5 +1,5 @@
 ### Hi there 💛💚
-✨ I’m currently learning ```Deep Learning```, ```Vision``` <br>
+✨ I’m currently learning ```Deep Learning```, ```Vision``` <br> 
 
 <div align=center> 
  
