@@ -1,5 +1,5 @@
 ### Hi there 💛💚
-✨ I’m currently learning ```Deep Learning```, ```Vision``` <br> 
+✨ I’m learning ```Deep Learning```, ```Vision```, ```Weakly Supervised Semantic Segmentation``` <br> 
 
 <div align=center> 
  
