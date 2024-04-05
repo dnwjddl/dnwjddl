@@ -1,5 +1,6 @@
 ### Hi there 💛💚
-✨ [My CV]([http://www.google.co.kr](https://github.com/dnwjddl/dnwjddl/blob/main/CV_2024.04.05.pdf))
+✨ About Me ! 
+[Woojung CV](https://github.com/dnwjddl/dnwjddl/blob/main/CV_2024.04.05.pdf)
 
 
 <div align=center> 
