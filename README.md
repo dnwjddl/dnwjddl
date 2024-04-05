@@ -1,5 +1,6 @@
 ### Hi there 💛💚
-✨ I’m learning ```Deep Learning```, ```Vision```, ```Weakly Supervised Semantic Segmentation``` <br> 
+✨ [My CV]([http://www.google.co.kr](https://github.com/dnwjddl/dnwjddl/blob/main/CV_2024.04.05.pdf))
+
 
 <div align=center> 
  
