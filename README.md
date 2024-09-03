@@ -1,6 +1,6 @@
 ### Hi there 💛💚
 ✨ About Me ! 
-[Woojung CV](https://github.com/dnwjddl/dnwjddl/blob/main/CV_24.08.28.pdf)
+[Woojung CV](https://github.com/dnwjddl/dnwjddl/blob/main/CV_24.09.03.pdf)
 
 
 <div align=center> 
