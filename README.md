@@ -1,7 +1,8 @@
 ### Hi there 💛💚
 ✨ PhD student at Yonsei University, advised by Professor Seong Jae Hwang in the MICV Lab.
 My current research areas include multimodal generative learning and representation learning.
-[CV](https://dnwjddl.github.io/cv/250301.pdf) [Webpage](dnwjddl.github.io)
+CV: [CV](https://dnwjddl.github.io/cv/250301.pdf) 
+Webpage: [Webpage](dnwjddl.github.io)
 
 <div align=center> 
  
