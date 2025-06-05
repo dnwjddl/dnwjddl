@@ -1,13 +1,10 @@
 ### Hi there 💛💚
 ✨ PhD student at Yonsei University, advised by Professor Seong Jae Hwang in the MICV Lab.
 My current research areas include multimodal generative learning and representation learning.
-CV: [CV](https://dnwjddl.github.io/cv/250301.pdf) 
+CV: [CV](https://dnwjddl.github.io/cv/CV-250606.pdf) 
 Webpage: [Webpage](dnwjddl.github.io)
 
 <div align=center> 
- 
- [![HITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnwjddl&count_bg=%2361E95D&title_bg=%23555555&icon=&icon_color=black&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woojung980305@gmail.com)](woojung980305@gmail.com)
-	
 	
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnwjddl&theme=dark&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,6 +12,10 @@ Webpage: [Webpage](dnwjddl.github.io)
  </div>
 
 <!--
+<div align=center> 
+ 
+ [![HITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnwjddl&count_bg=%2361E95D&title_bg=%23555555&icon=&icon_color=black&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woojung980305@gmail.com)](woojung980305@gmail.com)
+	
 **dnwjddl/dnwjddl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
  
