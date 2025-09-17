@@ -4,7 +4,7 @@ My current research areas include multimodal generative learning and representat
 
 
 CV: [CV](https://github.com/dnwjddl/dnwjddl/blob/main/CV-250606.pdf) 
-Webpage: [Webpage](dnwjddl.github.io)
+Webpage: [Webpage]([dnwjddl.github.io](https://dnwjddl.github.io/))
 
 <div align=center> 
 	
